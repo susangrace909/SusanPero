@@ -190,6 +190,7 @@ textarea {
   flex-wrap: wrap;
 }
 
+/* ! trying to get nav bar to the right */
 .flex-right {
   display: inline-flex;
   justify-content: right;

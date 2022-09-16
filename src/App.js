@@ -1,8 +1,9 @@
 import React from "react";
-import About from "./components/About";
 import Nav from "./components/Nav";
+import About from "./components/About";
+import Portfolio from "./components/Portfolio";
 // import logo from "./logo.svg";
-// import "./App.css";
+import "./App.css";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Nav></Nav>
       <main>
         <About></About>
+        <Portfolio></Portfolio>
       </main>
     </div>
   );
