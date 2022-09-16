@@ -24,6 +24,7 @@
 - Repository can be found at:
   [GitHub](https://github.com/susangrace909/SusanPero.git)
 
-## Video of Usage:
+## Live Website Link
 
-![Video](NoteTakerVideo.webm)
+- Live website can be found at:
+  [Live](https://susangrace909.github.io/SusanPero/)
