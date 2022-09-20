@@ -7,11 +7,11 @@ function About() {
     <section className="my-5">
       <h1 id="about">Professional Developer, Lifelong Learner</h1>
       <div className="d-flex justify-content-center">
-        <div>
+        <div className="mx-5">
           <img
             src={coverImage}
             className="my-2"
-            style={{ width: "20%" }}
+            style={{ width: "100%" }}
             alt="cover"
           />
         </div>

@@ -24,9 +24,7 @@ function Nav() {
     <header data-testid="header" className="flex-row px-1">
       <h2>
         <a href="/">
-          <span role="img" aria-label="camera">
-            🌱
-          </span>
+          <span role="img" aria-label="camera"></span>
           Susan Pero
         </a>
       </h2>

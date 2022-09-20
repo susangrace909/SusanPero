@@ -1,10 +1,10 @@
 import React from "react";
 import { capitalizeFirstLetter } from "../../utils/helpers";
-import photo from "../../assets/small/commercial/0.jpg";
+import photo from "../../assets/small/commercial/echeveria.jpg";
 
 function Portfolio(props) {
   const currentCategory = {
-    name: "portfolio",
+    name: "React Portfolio",
     description:
       "Each project showcases a different aspect of my full stack capabilities",
   };
